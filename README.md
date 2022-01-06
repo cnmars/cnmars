@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+@OSSDAO-ORG•AIRDROP-0x9612C463a31160dbaA39321eA3A7C5eD555668Bd
 
 <!---
 cnmars/cnmars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-@OSSDAO-ORG•AIRDROP-0xd88dF767215d91730Bc1aA0bbda8700e9FE6f531
+
